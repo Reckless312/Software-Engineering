@@ -1,0 +1,5 @@
+[submodule "Steam-Community"]
+	path = Steam_Community
+	url = https://github.com/Reckless312/UBB-SE-2025-Team_Pepeja
+[submodule "Roll-a-ball"]
+	url = https://github.com/AdrianMosnegutu/DrinkDb_Auth
